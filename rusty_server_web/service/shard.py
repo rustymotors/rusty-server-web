@@ -109,5 +109,5 @@ def getShardList():
         diag_host="rustyshard6.com",
         diag_port=1234,
     )
-    
+
     return [shard1, shard2, shard3, shard4, shard5, shard6]
